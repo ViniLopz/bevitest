@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pymongo
+alembic
+pydantic
+pytest
+pytest-asyncio
+httpx
+mongomock  
